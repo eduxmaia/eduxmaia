@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">software engineering university at UBM - Centro Universitário Barra Mansa</p>
+<p align="left">-Software engineering university at UBM - Centro Universitário Barra Mansa<br>-Studying data analysis and full stack developer</p>
 
 ###
 
