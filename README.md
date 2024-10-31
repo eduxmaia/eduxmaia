@@ -10,6 +10,8 @@
   <li>Github</li>
   <li>Vscode and PyCharm</li>
 </ul>
+<h1>Contact Me</h1>
+<p>Gmail:<a>educaetmaia3@gmail.com</a></p>
 
 
 
