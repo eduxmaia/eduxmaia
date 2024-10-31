@@ -1,3 +1,23 @@
+<h1 align="left">Welcome to my github profile!</h1>
+
+###
+
+<p align="left">My name is Eduardo, I'm from Barra Mansa in the interior of RJ in Brazil and I'm looking for my first job in the programming area!</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">About Me!</h2>
+
+###
+
+<p align="left">-Software engineering university at UBM - Centro Universitário Barra Mansa<br>-Studying data analysis and full stack developer</p>
+
+###
+
 <h2 align="left">Techs!!</h2>
 
 ###
@@ -13,14 +33,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
-
-###
-
-<h2 align="left">About Me!</h2>
-
-###
-
-<p align="left">-Software engineering university at UBM - Centro Universitário Barra Mansa<br>-Studying data analysis and full stack developer</p>
 
 ###
 
