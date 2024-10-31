@@ -11,5 +11,5 @@
 </ul>
 <h1>Contact Me</h1>
 <p>Gmail: <a>educaetmaia3@gmail.com</a></p>
-<p>Instagram <a>caetano.eddu</a></p>
+<p>Instagram: <a>caetano.eddu</a></p>
 <p>linkedin: <a>Eduardo Caetano Quintas Maia</a></p>
